@@ -19,7 +19,7 @@ Se liga nessa lista de tudo que usaremos nesse projeto:
 - `React Hooks`
 - `TypeScript`
 - `Axios`
-- 'Mui'
+- `MUI`
 
 ## 🛠️ Abrir e rodar o projeto
 
