@@ -13,15 +13,23 @@ No decorrer do curso, vamos implementar toda a camada de comunicação com a API
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-Se liga nessa lista de tudo que usaremos nesse treinamento:
+Se liga nessa lista de tudo que usaremos nesse projeto:
 
 - `React`
 - `React Hooks`
 - `TypeScript`
-- `axios`
+- `Axios`
+- 'Mui'
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, execute npm i para instalar as dependências e npm start para inicar o projeto.
+- npm i
+- npm i axios
+- npm install @mui/material @emotion/react @emotion/styled
+- npm install @mui/material @mui/styled-engine-sc styled-components
+- npm install @fontsource/roboto
+- npm install @mui/icons-material
+
+-npm start
 
 Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
